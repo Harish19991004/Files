@@ -18,3 +18,6 @@ https://docs.github.com/en/copilot/concepts/prompting/response-customization#abo
 
 # cheatsheet:
 https://docs.github.com/en/copilot/reference/customization-cheat-sheet
+
+# # Awesome copilot
+https://awesome-copilot.github.com/instructions/
