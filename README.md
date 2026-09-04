@@ -11,3 +11,6 @@ https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/a
 #Copilot Training:
 https://learn.microsoft.com/en-us/training/paths/copilot/
 https://learn.microsoft.com/en-us/training/paths/gh-copilot-2/
+
+#Prompt files and custom indtructions
+https://docs.github.com/en/copilot/concepts/prompting/response-customization#about-prompt-files
