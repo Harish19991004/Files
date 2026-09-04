@@ -14,3 +14,4 @@ https://learn.microsoft.com/en-us/training/paths/gh-copilot-2/
 
 # Prompt files and custom indtructions
 https://docs.github.com/en/copilot/concepts/prompting/response-customization#about-prompt-files
+https://docs.github.com/en/copilot/concepts/prompting/response-customization#about-repository-custom-instructions
