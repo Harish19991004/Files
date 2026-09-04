@@ -21,3 +21,6 @@ https://docs.github.com/en/copilot/reference/customization-cheat-sheet
 
 # # Awesome copilot
 https://awesome-copilot.github.com/instructions/
+
+# CLI Command
+https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference
