@@ -80,5 +80,11 @@ https://github.com/copilot/spaces.
 - Enable consistent, repeatable project execution
 
 ## Issue templates for program process documents
+(https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/govern-at-scale/maintain-codebase-standards)
 
+# demo
+https://github.com/massimobonanni/GitHubCopilot-Demos
+
+# GHCP
+https://github.com/rushtojp/Cognizant-BCBS-Github-Copilot-2nsep
 
