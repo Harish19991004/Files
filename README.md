@@ -90,3 +90,5 @@ https://github.com/massimobonanni/GitHubCopilot-Demos
 # GHCP
 https://github.com/rushtojp/Cognizant-BCBS-Github-Copilot-2nsep
 
+# Vibe Coding SpecKit
+https://github.com/github/spec-kit
